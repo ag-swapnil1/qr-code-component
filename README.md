@@ -38,20 +38,21 @@ Build a QR code card component that closely matches the provided design.
 
 ```
 qr-code-component/
-├── src/
-│   ├── index.html            # Main HTML entry point
-│   ├── css/
-│   │   └── style.css         # Main stylesheet
-│   └── images/
-│       ├── favicon-32x32.png
-│       └── image-qr-code.png
-├── docs/                     # Design assets / previews
 ├── .github/
 │   └── workflows/
 │       └── deploy.yml        # Auto-deploy to GitHub Pages
+├── docs/                     # Design assets / previews
+|       ├── desktop-preview.png
+|       └── mobile-preview.png
+├── images/
+|       ├── README.md
+│       ├── favicon-32x32.png
+│       └── image-qr-code.png
 ├── .gitignore
 ├── LICENSE
 └── README.md
+├── index.html            # Main HTML entry point
+├── style.css         # Main stylesheet
 ```
 
 ---
