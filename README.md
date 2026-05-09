@@ -20,7 +20,7 @@ Build a QR code card component that closely matches the provided design.
 
 ## 🔗 Links
 
-- **Live Site:** [https://swapnilagrahari.github.io/qr-code-component](https://swapnilagrahari.github.io/qr-code-component)
+- **Live Site:** [https://swapnilagrahari.github.io/qr-code-component](https://ag-swapnil1.github.io/qr-code-component/)
 - **Frontend Mentor Solution:** *(add your solution URL here)*
 
 ---
