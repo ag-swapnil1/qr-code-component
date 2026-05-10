@@ -4,13 +4,6 @@
 
 This is a solution to the [QR Code Component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
 
-## 📸 Screenshots
-
-**Desktop:**
-![Desktop Preview](./docs/desktop-preview.png)
-
-**Mobile:**
-![Mobile Preview](./docs/mobile-preview.png)
 
 ### The Challenge
 
@@ -25,12 +18,22 @@ Build a QR code card component that closely matches the provided design.
 
 ---
 
+## 📸 Screenshots
+
+**Desktop:**
+![Desktop Preview](./docs/desktop-preview.png)
+
+**Mobile:**
+![Mobile Preview](./docs/mobile-preview.png)
+
+---
+
 ## 🛠️ Built With
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- Mobile-first workflow
+- Desktop-first workflow
 
 ---
 
@@ -76,7 +79,7 @@ git clone https://github.com/swapnilagrahari/qr-code-component.git
 cd qr-code-component
 
 # 3. Open in browser
-open src/index.html
+open index.html
 ```
 
 No build tools or dependencies required — pure HTML & CSS.
@@ -85,8 +88,8 @@ No build tools or dependencies required — pure HTML & CSS.
 
 ## 👤 Author
 
-- **GitHub:** [@swapnilagrahari](https://github.com/swapnilagrahari)
-- **Frontend Mentor:** [@swapnilagrahari](https://www.frontendmentor.io/profile/swapnilagrahari)
+- **GitHub:** [@ag-swapnil1](https://github.com/ag-swapnil1)
+- **Frontend Mentor:** [@ag-swapnil1](https://www.frontendmentor.io/profile/ag-swapnil1)
 
 ---
 
